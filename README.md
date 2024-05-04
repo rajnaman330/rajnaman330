@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Raj</h1>
-<h3 align="center">A student of CsE</h3>
+<h3 align="center">A student of Computer Science and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnaman330&label=Profile%20views&color=0e75b6&style=flat" alt="rajnaman330" /> </p>
 
